@@ -1,6 +1,5 @@
- 💫 About Me:
-hello myself Shubham Kumar 
-🔭 I’m currently working on MIN <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hello myself Shubham Kumar <br> 
+🔭 I’m currently working on MIN <br>👯 I’m looking to collaborate on Conceps of machine learning<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
