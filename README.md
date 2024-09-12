@@ -1,5 +1,5 @@
 Hello myself Shubham Kumar <br> 
-🔭 I’m currently working on MIN <br>👯 I’m looking to collaborate on Conceps of machine learning<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on MIN <br>👯 I’m looking to collaborate on Conceps of machine learning<br>🤝 I’m looking for help with <br>🌱 I’m currently learning SOLIDITY and ML<br>💬 Ask me about WEB3/BLOCKCHAIN,OOPS CONCEPT<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
