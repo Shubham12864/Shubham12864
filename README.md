@@ -1,5 +1,5 @@
 Hello myself Shubham Kumar <br> 
-🔭 I’m currently working on cinescopeanalyzer <br>👯 I’m looking to collaborate on Conceps of machine learning<br>🤝 I’m looking for help with <br>🌱 I’m currently learning data analysis and ML<br>💬 Ask me about WEB3/BLOCKCHAIN,OOPS CONCEPT<br>⚡ Fun fact
+I’m looking to collaborate on Conceps of machine learning<br>🤝 I’m looking for help with <br>🌱 I’m currently learning data analysis and ML<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
