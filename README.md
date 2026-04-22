@@ -49,7 +49,7 @@ print(me)
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham12864&theme=tokyonight&hide_border=true&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&background=0D1117&sideLabels=ffffff&dates=888888" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Shubham12864&theme=tokyonight&hide_border=true&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&background=0D1117&sideLabels=ffffff&dates=888888" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shubham12864&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff" width="49%" />
 
@@ -67,21 +67,26 @@ print(me)
 
 ## 🚀 My Projects
 
-<!--
-  Just replace YOUR-REPO-1/2/3/4 with your actual repo names.
-  Cards auto-fetch stars, language, and description from GitHub.
-  Next project? One word change is all it takes.
--->
-
 <div align="center">
 
 <a href="https://github.com/Shubham12864/Small-Molecule-Design-Using-Transformer-model">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham12864&repo=Small-Molecule-Design-Using-Transformer-model&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham12864&repo=Small-Molecule-Design-Using-Transformer-model&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&show_owner=true" />
 </a>
 <a href="https://github.com/Shubham12864/cinescopeanalyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham12864&repo=cinescopeanalyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham12864&repo=cinescopeanalyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&show_owner=true" />
 </a>
-
+<a href="https://github.com/Shubham12864/Health-Insight-Dashboard-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham12864&repo=Health-Insight-Dashboard-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&show_owner=true" />
+</a>
+<a href="https://github.com/Shubham12864/AI-ML-PROJECTS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham12864&repo=AI-ML-PROJECTS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&show_owner=true" />
+</a>
+<a href="https://github.com/Shubham12864/exam-sprint-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham12864&repo=exam-sprint-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&show_owner=true" />
+</a>
+<a href="https://github.com/Shubham12864/students-habit-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham12864&repo=students-habit-analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&show_owner=true" />
+</a>
 
 </div>
 
@@ -123,8 +128,6 @@ print(me)
 
 ---
 
-
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -133,7 +136,7 @@ print(me)
   <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+<a href="https://linkedin.com/in/shubham-kumar-92432528b/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
@@ -148,69 +151,3 @@ print(me)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
-
-<!--
-=================================================================
-  SETUP INSTRUCTIONS
-=================================================================
-
-STEP 1 — Create the special profile repo
-  Go to github.com/new
-  Name it exactly: Shubham12864
-  Make it PUBLIC → tick "Add a README file"
-
-STEP 2 — Replace README.md content with this file
-
-STEP 3 — Update repo names in "My Projects" section
-  Replace YOUR-REPO-1/2/3/4 with your actual repo names
-  e.g. MolecularTransformer, ipl-score-predictor, etc.
-
-STEP 4 — Replace YOUR-LINKEDIN-HANDLE with your LinkedIn slug
-
-STEP 5 — Enable the Snake (one-time setup)
-  In your Shubham12864 repo, create this file:
-  .github/workflows/snake.yml
-
-  Paste this content:
-  ─────────────────────────────────────────────
-  name: Generate Snake
-
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_token: ${{ secrets.GITHUB_TOKEN }}
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ─────────────────────────────────────────────
-
-  Then: Actions → Generate Snake → Run workflow
-  Wait ~1 min → snake appears. Regenerates every midnight after that.
-
-WHAT NEVER NEEDS UPDATING (auto):
-  ✅ Streak counter       — daily
-  ✅ Contribution graph   — real-time
-  ✅ Stats card           — real-time
-  ✅ Top languages        — real-time
-  ✅ Snake animation      — nightly via GitHub Actions
-  ✅ Project pin cards    — auto-fetch from your repo
-
-WHAT YOU UPDATE (rarely):
-  📝 Repo names in "My Projects" → when you have a new project
-  📝 LinkedIn handle             → once
-=================================================================
--->
